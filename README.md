@@ -1,2 +1,2 @@
 # PythonPOS
-A simple python prrogram to create pont of sales
+A simple python prrogram to create point of sales
